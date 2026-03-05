@@ -37,7 +37,7 @@ If you want to host or create content for SS14, for Goob Station, OR for Funky S
 
 [PLACEHOLDER](PLACEHOLDER)
 
-## Documentation/Wiki
+## Documentation/Wiki/Tuah
 
 The Goob Station [docs site](https://docs.goobstation.com/) has documentation on GS14's content, engine, game design, and more. It also have lots of resources for new contributors to the project.
 
